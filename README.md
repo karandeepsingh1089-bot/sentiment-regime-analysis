@@ -87,6 +87,3 @@ Compared across sentiment regimes:
    - Favor systematic strategies during high win-rate environments.
    - Avoid over-amplifying exposure in low-volatility regimes.
 
----
-
-## Repository Structure
